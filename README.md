@@ -1,2 +1,3 @@
 # pythonMail
-Python ile mail  erişip kullanıcıya mail gönderme 
+Python ile mail'e erişip kullanıcıya mail
+gönderme 
